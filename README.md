@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer games , pokemon , comic book movies, music and travel
 - 🌱 I’m currently learning amazon web services
 - 💞️ I’m looking to collaborate on cloud services
-- 📫 How to reach me ...
+- 📫 You can reach me through my email at nwesber@gmail.com
 
 <!---
 nwesber/nwesber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
